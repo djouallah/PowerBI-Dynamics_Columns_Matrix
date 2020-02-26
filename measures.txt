@@ -1,0 +1,30 @@
+MEASURE_Values	Category
+Start_Date	Date
+Finish_Date	Date
+Actual Start	Date
+Actual Finish	Date
+Tota_Float_hrs	Float
+Budget Labor Units	Labor
+Actual Labor Untis	Labor
+Remaining Labor Unit	Labor
+At Completion Labor Units	Labor
+%_Labor_units	Labor
+Budget Non Labor Units	Non Labor
+Actual Non Labor Units	Non Labor
+Remaining Non Labor Unit	Non Labor
+At Completion Non Labor Units	Non Labor
+Task_Count	Task Metrics
+Task_Count_Negative_Float	Task Metrics
+Task_Count_Float_0	Task Metrics
+Task_Count_Completed	Task Metrics
+Primary Constraints	Task Metrics
+Task_Count_Ongoing	Task Metrics
+Task_Count_Not_Started	Task Metrics
+LOE	Task Metrics
+Finish Milestone	Task Metrics
+Start Milestone	Task Metrics
+Task Dependent	Task Metrics
+Count_Task_Duration_%	Task Metrics
+Count_Task_Units_%	Task Metrics
+Count_Task_Phys_%	Task Metrics
+Task_Counts_Not_Completed	Task Metrics
